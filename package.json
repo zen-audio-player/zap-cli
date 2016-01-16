@@ -1,0 +1,20 @@
+{
+  "name": "zap-cli",
+  "version": "1.0.0",
+  "description": "A CLI for opening YouTube URLs in Zen Audio Player",
+  "bin": {
+    "zap": "index.js",
+    "zen-audio-player": "index.js"
+  },
+  "keywords": [
+    "zen",
+    "audio",
+    "player",
+    "cli"
+  ],
+  "author": "Zen Audio Player",
+  "license": "MIT",
+  "dependencies": {
+    "open": "0.0.5"
+  }
+}
