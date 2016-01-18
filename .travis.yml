@@ -1,0 +1,13 @@
+language: node_js
+notifications:
+  email: false
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/789c495ac457dab0ae54
+  on_success: always
+  on_failure: always
+node_js:
+- '5.x'
+- '4.x'
+- '0.12'
+- '0.10'
