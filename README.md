@@ -1,7 +1,7 @@
 # zap-cli
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zen-audio-player/zen-audio-player.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Build Status]https://api.travis-ci.org/zen-audio-player/zap-cli.svg?branch=master)](https://travis-ci.org/zen-audio-player/zap-cli)
+[![Build Status](https://api.travis-ci.org/zen-audio-player/zap-cli.svg?branch=master)](https://travis-ci.org/zen-audio-player/zap-cli)
 [![GitHub Stats](https://img.shields.io/badge/github-stats-ff5500.svg)](http://githubstats.com/zen-audio-player/zap-cli)
 
 A Node.js CLI tool for searching for, or opening a YouTube video with [Zen Audio Player](https://github.com/zen-audio-player/zen-audio-player.github.io).
