@@ -17,18 +17,17 @@
     "player",
     "cli"
   ],
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/zen-audio-player/zap-cli.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zen-audio-player/zap-cli.git"
   },
-  "private": true,
   "author": "Zen Audio Player",
   "license": "MIT",
   "dependencies": {
     "open": "6.0.0"
   },
   "devDependencies": {
-    "eslint": "1.10.x"
+    "eslint": "^6.8.0"
   },
   "engines": {
     "node": ">=4.x"
