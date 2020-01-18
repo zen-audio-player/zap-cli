@@ -1,5 +1,5 @@
 {
-  "name": "zap-cli",
+  "name": "zen-audio",
   "version": "1.0.0",
   "description": "A CLI for opening YouTube URLs in Zen Audio Player",
   "bin": {
